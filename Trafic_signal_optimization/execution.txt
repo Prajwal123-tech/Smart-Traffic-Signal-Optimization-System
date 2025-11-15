@@ -1,0 +1,10 @@
+create the virtua enviorement
+install all the requirements
+
+download the video sample from : 
+https://www.vecteezy.com/video/7957364-car-and-truck-traffic-on-the-highway-in-europe-poland-summer-day
+save the sample video in the project folder 
+
+
+then run the server using , 
+streamlit run app.py 
